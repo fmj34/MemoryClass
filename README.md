@@ -1,8 +1,6 @@
 # MemoryClass
 Memory class I wrote in c#, made for making game cheats/trainers easier.
 
-P.S (Your able to use DMA on all R/W memory features, so you don't have to scan for pointers, just add the offsets in the second parameter of the function your using).
-
 **Special Features**
 - Pattern Scanner
 - Find Code Caves
