@@ -1,6 +1,0 @@
-C:\Users\Franky\Desktop\FMemoryV2\FMemoryV2\bin\Debug\FMemoryV2.dll
-C:\Users\Franky\Desktop\FMemoryV2\FMemoryV2\bin\Debug\FMemoryV2.pdb
-C:\Users\Franky\Desktop\FMemoryV2\FMemoryV2\obj\Debug\FMemoryV2.csproj.AssemblyReference.cache
-C:\Users\Franky\Desktop\FMemoryV2\FMemoryV2\obj\Debug\FMemoryV2.csproj.CoreCompileInputs.cache
-C:\Users\Franky\Desktop\FMemoryV2\FMemoryV2\obj\Debug\FMemoryV2.dll
-C:\Users\Franky\Desktop\FMemoryV2\FMemoryV2\obj\Debug\FMemoryV2.pdb
